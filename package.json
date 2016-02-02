@@ -1,0 +1,8 @@
+{
+  "name" : "Japan_Blog",
+  "version" : "0.0.3",
+  "description" : "Suram My Japan Blog",
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  }
+}
